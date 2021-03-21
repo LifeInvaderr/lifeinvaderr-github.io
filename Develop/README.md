@@ -1,6 +1,7 @@
 # Horiseon: Module 1 Challenge
     URL to this repository https://github.com/LifeInvaderr/Horiseon
     URL to the depoloyed repository https://lifeinvaderr.github.io/Horiseon/
+    
 ## What I looked for in the project
     In this project, the first thing I did when cloned the starter code was to review the guide
      lines of what needed to be changed.
